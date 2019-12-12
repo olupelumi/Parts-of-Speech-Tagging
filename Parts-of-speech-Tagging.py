@@ -5,6 +5,7 @@ import numpy
 from collections import *
 
 #################   PASTE PROVIDED CODE HERE AS NEEDED   #################
+#classes are so cool cause we can create all types of data structures to do wh
 class HMM:
     """
     Simple class to represent a Hidden Markov Model.
